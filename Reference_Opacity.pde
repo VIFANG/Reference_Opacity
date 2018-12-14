@@ -8,3 +8,4 @@ void draw() {
   
   fill(random(255),random(255),random(255));
   quad(mouseX,mouseY,random(80,100),random(80,100),random(80,100),random(80,100),random(80,100),random(80,100));
+}
